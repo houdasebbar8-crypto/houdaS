@@ -1,1 +1,1 @@
-int(input("Give "))
+int(input("Give 2222 "))
